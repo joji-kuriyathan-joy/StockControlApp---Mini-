@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.w9580029.oop.stockcontrollapp.BBStockItemTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.229 s - in com.w9580029.oop.stockcontrollapp.BBStockItemTest
